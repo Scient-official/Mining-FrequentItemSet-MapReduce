@@ -1,80 +1,9 @@
-d,e,a
-d,b,e,f
-e,c,a,d
-b,g,i,f,a,c
-f,g,e,c,a
-b,a
-e,f
-c,a,e
-f,h,g,b,a,c
-a,b,c
-b,a
-a,b,c
-d,e,l,b,j,i,k,f
-l,d,i,f,k,b,c,g,j,e
-a
-a,c,e
-b,e,d,c
-a,c
-b,c,a
-f,a,b
-d,e,a
-d,b,e,f
-e,c,a,d
-b,g,i,f,a,c
-f,g,e,c,a
-b,a
-e,f
-c,a,e
-f,h,g,b,a,c
-a,b,c
-b,a
-a,b,c
-d,e,l,b,j,i,k,f
-l,d,i,f,k,b,c,g,j,e
-a
-a,c,e
-b,e,d,c
-a,c
-b,c,a
-f,a,b
-d,e,a
-d,b,e,f
-e,c,a,d
-b,g,i,f,a,c
-f,g,e,c,a
-b,a
-e,f
-c,a,e
-f,h,g,b,a,c
-a,b,c
-b,a
-a,b,c
-d,e,l,b,j,i,k,f
-l,d,i,f,k,b,c,g,j,e
-a
-a,c,e
-b,e,d,c
-a,c
-b,c,a
-f,a,b
-d,e,a
-d,b,e,f
-e,c,a,d
-b,g,i,f,a,c
-f,g,e,c,a
-b,a
-e,f
-c,a,e
-f,h,g,b,a,c
-a,b,c
-b,a
-a,b,c
-d,e,l,b,j,i,k,f
-l,d,i,f,k,b,c,g,j,e
-a
-a,c,e
-b,e,d,c
-a,c
-b,c,a
-f,a,b
+cat, and, dog, bites 
+yahoo, news, claims, a, cat, mated, with, a, dog, and, produced, viable,offspring 
+cat, killer, likely, is, a, big, dog 
+professional, free, advice, on, dog, training, puppy, training 
+cat, and, kitten, training, and, behavior 
+dog, &, cat,  provides, dog, training, in, eugene, oregon 
+“dog, and, cat”, is, a, slang, term, used, by, police, officers, for, a, male–female, relationship
+shop, for, your, show, dog, grooming, and, pet, supplies 
+
